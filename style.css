@@ -1,3 +1,9 @@
 body {
     background-color: aqua;
 }
+
+* {
+    background: fixed;
+    font-size: small;
+    margin: 0;
+}
